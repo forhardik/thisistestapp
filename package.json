@@ -1,0 +1,19 @@
+{
+  "name": "myfirstpackage",
+  "version": "1.0.0",
+  "description": "this is very first app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/forhardik/thisistestapp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/forhardik/thisistestapp/issues"
+  },
+  "homepage": "https://github.com/forhardik/thisistestapp#readme"
+}
